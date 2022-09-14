@@ -332,7 +332,7 @@
   margin: 10px;
 }
 
-h1 {
+/* h1 {
   animation-duration: 3s;
   animation-name: slidein;
   animation-iteration-count: initial;
@@ -348,7 +348,7 @@ h1 {
     margin-left: 0%;
     width: 100%;
   }
-}
+} */
 
 .school {
   padding-top: 50px;
